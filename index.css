@@ -1,0 +1,20 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    flex-direction:column;
+    margin:4px;
+}
+.submit-btn{
+   position:absolute;
+   left:40%;
+   top:50%;
+   margin-top: 50px;
+}
+.login-btn{
+    position:absolute;
+   left:60%;
+   top:50%;
+   margin-top: 50px;
+}
